@@ -1,0 +1,15 @@
+{
+  "name": "unit_test_mocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.7.1"
+  }
+}
